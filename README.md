@@ -1,31 +1,25 @@
-# NumberGuesser
+# NumberGuessingGame
 # Overview
 
-This program is a simple number guessing game written in the Java language. The computer will choose a number and the user will have to guess the number. 
+This program is a simple number guessing game written in the Java language. The computer will choose a number and the user will have to guess the number, the computer will give hints on if the number is higher or lower than the number guessed. The program reads and writes to a text file of the numbers guessed. 
 
-{Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+I wrote this program with the purpose of demonstrating my knowledge of the operation and syntax of the java language, and show use of the terminal on my mac computer. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demonstration Video](https://youtu.be/CC1r07fgJ4Q)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I wrote this program in the java language using the VIM file editor in my Unix terminal, the program was also compiled in the terminal. 
 
-{Describe the programming language that you used and any libraries.}
+No other IDE was used or needed in this project. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+[Youtube](https://www.youtube.com/watch?v=wXotUgqOdh8)
+[W3 Schools](https://www.w3schools.com/java/java_getstarted.asp)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+- Develop a GUI to have the game played with visuals instewad of in the terminal
 
-- Item 1
-- Item 2
-- Item 3
